@@ -13,7 +13,7 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Foodgram</name>
-	<description>Practice Java Spring API BE + React FE</description>
+	<description>Practice Java Spring API Back-End + React Front-End</description>
 	<properties>
 		<java.version>20</java.version>
 	</properties>
