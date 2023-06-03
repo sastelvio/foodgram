@@ -1,0 +1,5 @@
+com/sastelvio/foodgram/controller/FoodController.class
+com/sastelvio/foodgram/entity/food/Food.class
+com/sastelvio/foodgram/ServletInitializer.class
+com/sastelvio/foodgram/FoodgramApplication.class
+com/sastelvio/foodgram/entity/food/FoodRepository.class
